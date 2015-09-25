@@ -1,4 +1,4 @@
-# 3Project
+﻿# 3Project
 Group 3's project for CSE 360 Fall 2015 Yao
 
 [Objectives]:
@@ -27,7 +27,7 @@ Shiao, Jau-Yuan
 Villela, Daniel
 
 Github usernames of members:
-Mark - 
+Mark - mandroshick
 Bishnu - 
 Connor - 
 Dayton - 
